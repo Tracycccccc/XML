@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:title="字体大小" android:id="@+id/Txt.size">
+    <menu>
+        <item android:title="10号字体" android:id="@+id/Font_10"></item>
+        <item android:title="16号字体" android:id="@+id/Font_16"></item>
+        <item android:title="20号字体" android:id="@+id/Font_20"></item>
+    </menu>
+</item>
+    //        SubMenu fontMenu = menu.addSubMenu("字体大小");-->
+    //        fontMenu.setHeaderTitle("选择字体大小");
+    //        fontMenu.add(0,Font_10,0,"10号字体");
+    //        fontMenu.add(0,Font_10,0,"16号字体");
+    //        fontMenu.add(0,Font_10,0,"20号字体");
+    //        menu.add(0,PLAIN_ITEM,0,"普通菜单");
+    //        SubMenu colorMenu =menu.addSubMenu("字体颜色");
+    //        colorMenu.setHeaderTitle("选择字体颜色");
+    //        colorMenu.add(0,FONT_RED,0,"红色");
+    //        colorMenu.add(0,FONT_GREEN,0,"绿色");
+    //        colorMenu.add(0,FONT_BLUE,0,"蓝色");
+
+
+</menu>
